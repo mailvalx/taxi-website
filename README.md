@@ -73,7 +73,6 @@
       font-size: 14px;
       color: #888;
     }
-  </style>
 </head>
 <body>
   <div class="container">
