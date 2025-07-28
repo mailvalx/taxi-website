@@ -76,7 +76,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="https://raw.githubusercontent.com/mailvalx/taxi-website/refs/heads/main/WhatsApp%20Image%202025-06-23%20at%2001.30.49.jpeg" alt="Taxi MM Fahrzeug">
+    <img src="https://raw.githubusercontent.com/mailvalx/taxi-website/refs/heads/main/WhatsApp%20Image%202025-07-%17at%11.54.14.jpeg" alt="Taxi MM Fahrzeug">
     <h1>Taxi MM</h1>
     <p>Ihr zuverlässiger Taxi-Service in Mannheim – 24/7 für Sie unterwegs</p>
     <div class="phone">📞 <a href="tel:+4917631704759">0176 31704759</a></div>
